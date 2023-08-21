@@ -1411,52 +1411,52 @@ Do you want KLog to add this QSO to the log?</source>
     <message>
         <location filename="../startwizard.cpp" line="152"/>
         <source>This looks like it&apos;s the first time you&apos;ve run KLog on this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šķiet, ka šī ir pirmā reize, kad šajā datorā palaižat KLog.</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="153"/>
         <source>KLog is a free hamradio logging program that can run on Linux, macOS, and Windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog ir bezmaksas hamradio reģistrēšanas programma, kas var darboties operētājsistēmās Linux, macOS un Windows.</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="154"/>
         <source>It is designed to provide general purpose DX, and contest logging.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tas ir paredzēts, lai nodrošinātu vispārējas nozīmes DX un sacensību reģistrēšanu.</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="155"/>
         <source>It supports QSL management, import and export of ADIF </source>
-        <translation type="unfinished"></translation>
+        <translation>Tā atbalsta QSL pārvaldību, ADIF importu un eksportu </translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="156"/>
         <source>and Cabrillo file formats and many other features...</source>
-        <translation type="unfinished"></translation>
+        <translation>un Cabrillo failu formāti un daudzas citas funkcijas...</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="157"/>
         <source>Before you can start using KLog, you will be asked to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pirms sākat lietot KLog, jums tiks lūgts:</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="158"/>
         <source>Acknowledge to the terms of the license.</source>
-        <translation type="unfinished"></translation>
+        <translation>Apstipriniet licences nosacījumus.</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="159"/>
         <source>Download the DX entities information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lejupielādējiet DX entītiju informāciju.</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="160"/>
         <source>Enter your callsign, CQ zone, etc. and main configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ievadiet savu izsaukuma signālu, CQ zonu utt. un galveno konfigurāciju.</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="161"/>
         <source>Enjoy KLog and contact the development team if you have any suggestions!</source>
-        <translation type="unfinished"></translation>
+        <translation>Izbaudiet KLog un sazinieties ar izstrādes komandu, ja jums ir kādi ieteikumi!</translation>
     </message>
 </context>
 <context>
@@ -1487,12 +1487,12 @@ Do you want KLog to add this QSO to the log?</source>
     <message>
         <location filename="../lotwutilities.cpp" line="32"/>
         <source>Double click on the date that you want to use as the start date for downloading QSOs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veiciet dubultklikšķi uz datuma, kuru vēlaties izmantot kā QSO lejupielādes sākuma datumu.</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="77"/>
         <source>KLog - LoTW password needed</source>
-        <translation type="unfinished"></translation>
+        <translation>KLog — nepieciešama LoTW parole</translation>
     </message>
     <message>
         <location filename="../lotwutilities.cpp" line="78"/>
