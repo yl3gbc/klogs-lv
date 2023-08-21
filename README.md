@@ -1,5 +1,5 @@
 # Klogs Translate 
-KLOG TRANSLATE Ltvieski
+KLOG TRANSLATE Latviski
 #
 
- Arnis-Janis ArmansYL3GBC
+ Arnis-Janis Armans YL3GBC
