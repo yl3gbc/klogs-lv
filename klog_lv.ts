@@ -1285,92 +1285,92 @@ Do you want KLog to add this QSO to the log?</source>
     <message>
         <location filename="../infowidget.cpp" line="48"/>
         <source>10M</source>
-        <translation type="unfinished"></translation>
+        <translation>10M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="49"/>
         <source>15M</source>
-        <translation type="unfinished"></translation>
+        <translation>15M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="50"/>
         <source>20M</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="51"/>
         <source>40M</source>
-        <translation type="unfinished"></translation>
+        <translation>40M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="52"/>
         <source>80M</source>
-        <translation type="unfinished"></translation>
+        <translation>80M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="53"/>
         <source>160M</source>
-        <translation type="unfinished"></translation>
+        <translation>160M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="54"/>
         <source>2M</source>
-        <translation type="unfinished"></translation>
+        <translation>2M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="55"/>
         <source>6M</source>
-        <translation type="unfinished"></translation>
+        <translation>6M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="56"/>
         <source>12M</source>
-        <translation type="unfinished"></translation>
+        <translation>12M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="57"/>
         <source>17M</source>
-        <translation type="unfinished"></translation>
+        <translation>17M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="58"/>
         <source>30M</source>
-        <translation type="unfinished"></translation>
+        <translation>30M</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="59"/>
         <source>70CM</source>
-        <translation type="unfinished"></translation>
+        <translation>70CM</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="74"/>
         <source>Continent</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontinents</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="78"/>
         <source>Prefix</source>
-        <translation type="unfinished"></translation>
+        <translation>Prefiks</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="82"/>
         <source>CQ</source>
-        <translation type="unfinished"></translation>
+        <translation>CQ</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="86"/>
         <source>ITU</source>
-        <translation type="unfinished"></translation>
+        <translation>ITU</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="90"/>
         <source>Short Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Īss ceļš</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="93"/>
         <source>Long Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Garais ceļš</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="96"/>
@@ -1382,13 +1382,13 @@ Do you want KLog to add this QSO to the log?</source>
         <location filename="../infowidget.cpp" line="326"/>
         <location filename="../infowidget.cpp" line="327"/>
         <source>Miles</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūdzes</translation>
     </message>
     <message>
         <location filename="../infowidget.cpp" line="333"/>
         <location filename="../infowidget.cpp" line="334"/>
         <source>Km</source>
-        <translation type="unfinished"></translation>
+        <translation>Km</translation>
     </message>
 </context>
 <context>
@@ -1396,17 +1396,17 @@ Do you want KLog to add this QSO to the log?</source>
     <message>
         <location filename="../startwizard.cpp" line="141"/>
         <source>Welcome to KLog!</source>
-        <translation type="unfinished"></translation>
+        <translation>Laipni lūdzam KLog!</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="143"/>
         <source>Welcome to KLog! - brought to you under the terms of the GPL!</source>
-        <translation type="unfinished"></translation>
+        <translation>Laipni lūdzam KLog! - sniegta jums saskaņā ar GPL noteikumiem!</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="151"/>
         <source>Welcome to KLog</source>
-        <translation type="unfinished"></translation>
+        <translation>Laipni lūdzam KLog</translation>
     </message>
     <message>
         <location filename="../startwizard.cpp" line="152"/>
