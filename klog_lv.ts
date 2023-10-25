@@ -920,7 +920,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../filemanager.cpp" line="337"/>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportēt</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="382"/>
