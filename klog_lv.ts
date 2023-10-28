@@ -915,7 +915,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
         <location filename="../filemanager.cpp" line="463"/>
         <location filename="../filemanager.cpp" line="670"/>
         <source>Abort writing</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārtraukt rakstīšanu</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="337"/>
@@ -1690,7 +1690,7 @@ Error returned: %2</source>
     <message>
         <location filename="../logmodel.cpp" line="108"/>
         <source>Call</source>
-        <translation type="unfinished">Izsaukuma signāls</translation>
+        <translation>Izsaukuma signāls</translation>
     </message>
     <message>
         <location filename="../logmodel.cpp" line="111"/>
@@ -1974,7 +1974,7 @@ Error returned: %2</source>
         <location filename="../mainqsoentrywidget.cpp" line="736"/>
         <source>DUPE</source>
         <comment>Translator: DUPE is a common world for hams. Do not translate of not sure</comment>
-        <translation type="unfinished"></translation>
+        <translation>DUPE</translation>
     </message>
 </context>
 <context>
