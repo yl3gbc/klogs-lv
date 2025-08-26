@@ -392,7 +392,7 @@
     <message>
         <location filename="../awards.cpp" line="1320"/>
         <source>Worked</source>
-        <translation type="unfinished">Strādāja</translation>
+        <translation>Strādāja</translation>
     </message>
     <message>
         <location filename="../awards.cpp" line="1323"/>
@@ -403,7 +403,7 @@
     <message>
         <location filename="../awards.cpp" line="1324"/>
         <source>Confirmed</source>
-        <translation type="unfinished">Apstiprināts</translation>
+        <translation>Apstiprināts</translation>
     </message>
     <message>
         <location filename="../awards.cpp" line="1328"/>
@@ -1153,7 +1153,7 @@ Vai vēlaties mēģināt vēlreiz?</translation>
     <message>
         <location filename="../filemanager.cpp" line="773"/>
         <source>Abort reading</source>
-        <translation type="unfinished">Pārtraukt lasīšanu</translation>
+        <translation>Pārtraukt lasīšanu</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="817"/>
