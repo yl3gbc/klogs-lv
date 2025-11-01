@@ -7619,27 +7619,27 @@ The log will not be opened.</source>
     <message>
         <location filename="../widgets/showadifimportwidget.cpp" line="56"/>
         <source>Ok</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
     <message>
         <location filename="../widgets/showadifimportwidget.cpp" line="66"/>
         <source>DX</source>
-        <translation type="unfinished">DX</translation>
+        <translation>DX</translation>
     </message>
     <message>
         <location filename="../widgets/showadifimportwidget.cpp" line="66"/>
         <source>Date/Time</source>
-        <translation type="unfinished">Datums Laiks</translation>
+        <translation>Datums/Laiks</translation>
     </message>
     <message>
         <location filename="../widgets/showadifimportwidget.cpp" line="66"/>
         <source>Band</source>
-        <translation type="unfinished"></translation>
+        <translation>Diepazons</translation>
     </message>
     <message>
         <location filename="../widgets/showadifimportwidget.cpp" line="66"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Izstarojuma veids</translation>
     </message>
 </context>
 <context>
@@ -7706,37 +7706,37 @@ The log will not be opened.</source>
     <message>
         <location filename="../statisticswidget.cpp" line="264"/>
         <source>QSO per year</source>
-        <translation type="unfinished"></translation>
+        <translation>QSO gadā</translation>
     </message>
     <message>
         <location filename="../statisticswidget.cpp" line="265"/>
         <source>DXCC per year</source>
-        <translation type="unfinished"></translation>
+        <translation>DXCC gadā</translation>
     </message>
     <message>
         <location filename="../statisticswidget.cpp" line="266"/>
         <source>CQ zones per year</source>
-        <translation type="unfinished">CQ zonas gadā</translation>
+        <translation>CQ zonas gadā</translation>
     </message>
     <message>
         <location filename="../statisticswidget.cpp" line="267"/>
         <source>QSO per band</source>
-        <translation type="unfinished"></translation>
+        <translation>QSO katrā diapazonā</translation>
     </message>
     <message>
         <location filename="../statisticswidget.cpp" line="268"/>
         <source>QSO per mode</source>
-        <translation type="unfinished"></translation>
+        <translation>QSO katrāizstarojuma veidā</translation>
     </message>
     <message>
         <location filename="../statisticswidget.cpp" line="269"/>
         <source>QSO per DXCC</source>
-        <translation type="unfinished"></translation>
+        <translation>QSO caur DXCC</translation>
     </message>
     <message>
         <location filename="../statisticswidget.cpp" line="270"/>
         <source>QSO per Continent</source>
-        <translation type="unfinished"></translation>
+        <translation>QSO katrā kontinentā</translation>
     </message>
     <message>
         <location filename="../statisticswidget.cpp" line="271"/>
@@ -8380,7 +8380,7 @@ The log will not be opened.</source>
     <message>
         <location filename="../tipsdialog.cpp" line="57"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Nakamais</translation>
     </message>
     <message>
         <location filename="../tipsdialog.cpp" line="58"/>
@@ -8524,12 +8524,12 @@ The log will not be opened.</source>
     <message>
         <location filename="../updatesettings.cpp" line="109"/>
         <source>KLog - Settings update</source>
-        <translation type="unfinished"></translation>
+        <translation>Klog - Setingu  atjaunināšana</translation>
     </message>
     <message>
         <location filename="../updatesettings.cpp" line="111"/>
         <source>The settings system has been changed and KLog will update your settings file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iestatījumu sistēma ir mainīta, un KLog atjauninās jūsu iestatījumu failu.</translation>
     </message>
 </context>
 <context>
@@ -8551,12 +8551,12 @@ The log will not be opened.</source>
     <message>
         <location filename="../world.cpp" line="962"/>
         <source>KLog DXCC</source>
-        <translation type="unfinished">Klog DXCC</translation>
+        <translation>Klosg DXCC</translation>
     </message>
     <message>
         <location filename="../world.cpp" line="963"/>
         <source>All QSOs have been updated with a DXCC and the Continent.</source>
-        <translation type="unfinished">Visi QSO ir atjaunināti ar DXCC un kontinentu.</translation>
+        <translation>Visi QSO ir atjaunināti ar DXCC un kontinentu.</translation>
     </message>
 </context>
 <context>
@@ -8603,7 +8603,7 @@ The log will not be opened.</source>
     <message>
         <location filename="../elogclublog.cpp" line="131"/>
         <source>QSO dupe or not existing (#%1)... </source>
-        <translation>QSO ir dublikāts vai nepastāv (#% 1)... </translation>
+        <translation>QSO ir dublikāts vai neeksistē (#%1)... </translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="107"/>
@@ -8641,7 +8641,7 @@ The log will not be opened.</source>
     <message>
         <location filename="../elogclublog.cpp" line="140"/>
         <source>Undefined error number (#%1)... </source>
-        <translation type="unfinished">Nedefinēts kļūdas numurs (#%1)... </translation>
+        <translation>Nedefinēts kļūdas numurs (#%1)... </translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="143"/>
@@ -8656,12 +8656,12 @@ The log will not be opened.</source>
     <message>
         <location filename="../elogclublog.cpp" line="558"/>
         <source>Callsign missing</source>
-        <translation type="unfinished">Trūkst izsaukuma signāla</translation>
+        <translation>Trūkst izsaukuma signāla</translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="562"/>
         <source>Invalid callsign</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepareizs izsaukuma signāls</translation>
     </message>
     <message>
         <location filename="../elogclublog.cpp" line="566"/>
