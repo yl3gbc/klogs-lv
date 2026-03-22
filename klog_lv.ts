@@ -6,7 +6,7 @@
     <message>
         <location filename="../aboutdialog.cpp" line="44"/>
         <source>About KLog</source>
-        <translation>Par KLog</translation>
+        <translation type="unfinished">Klosg DXCC</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="51"/>
@@ -116,7 +116,7 @@
     <message>
         <location filename="../aboutdialog.cpp" line="130"/>
         <source>At present, the data that is provided is the following:</source>
-        <translation>Šobrīd sniegtie dati ir šādi:</translation>
+        <translation type="unfinished">Šobrīd sniegtie dati ir šādi:</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="131"/>
@@ -481,7 +481,7 @@
         <location filename="../awardswidget.cpp" line="188"/>
         <location filename="../awardswidget.cpp" line="408"/>
         <source>Annual</source>
-        <translation>Gada</translation>
+        <translation type="unfinished">Visi</translation>
     </message>
     <message>
         <location filename="../awardswidget.cpp" line="281"/>
@@ -3698,7 +3698,7 @@ Open the LoTW tab in the Setup and configure your LoTW connection.</source>
     <message>
         <location filename="../inputwidgets/mainwindowinputeqsl.cpp" line="136"/>
         <source>Date of the LoTW sending.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klog - Iestatījumu  atjaunināšana</translation>
     </message>
     <message>
         <location filename="../inputwidgets/mainwindowinputeqsl.cpp" line="137"/>
@@ -5982,7 +5982,7 @@ Please add and select the kind of log you want to use.</source>
     <message>
         <location filename="../setuppages/setuppagedxcluster.cpp" line="75"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vissi</translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagedxcluster.cpp" line="76"/>
@@ -6052,7 +6052,7 @@ Please add and select the kind of log you want to use.</source>
     <message>
         <location filename="../setuppages/setuppagedxcluster.cpp" line="92"/>
         <source>DX Spots</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Satelītu Dati</translation>
     </message>
     <message>
         <location filename="../setuppages/setuppagedxcluster.cpp" line="103"/>
