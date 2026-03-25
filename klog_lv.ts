@@ -6,7 +6,7 @@
     <message>
         <location filename="../aboutdialog.cpp" line="44"/>
         <source>About KLog</source>
-        <translation type="unfinished">Klosg DXCC</translation>
+        <translation>Klogs DXCC</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="51"/>
@@ -1226,7 +1226,7 @@ Enter the Station Callsign that was used to do this QSO on %1:</source>
         <source>Do you want to add this QSO to the log?:
 
 </source>
-        <translation type="unfinished">Vai tu vēlies pievienot QSD log failam?</translation>
+        <translation>Vai tu vēlies pievienot QSO log failam?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1509"/>
