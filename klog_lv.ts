@@ -90,7 +90,7 @@
     <message>
         <location filename="../aboutdialog.cpp" line="91"/>
         <source>If you want to provide support you are welcome to join the &lt;a href=&quot;https://groups.io/g/klog&quot;&gt;KLog mailing list&lt;/a&gt;!</source>
-        <translation>Ja vēlaties sniegt atbalstu, laipni lūdzam pievienoties &lt;a href=&quot;https://groups.io/g/klog&quot;&gt;KLog adresātu sarakstam&lt;/a&gt;!</translation>
+        <translation type="unfinished">Ja KLog joprojām nav jūsu valodā un vēlaties mums palīdzēt, varat sazināties ar mums, izmantojot &lt;a href=&quot;https://groups.io/g/klog&quot;&gt;KLog adresātu sarakstu&lt;/a&gt;!</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="111"/>
@@ -1226,7 +1226,7 @@ Enter the Station Callsign that was used to do this QSO on %1:</source>
         <source>Do you want to add this QSO to the log?:
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vai tu vēlies pievienot QSD log failam?</translation>
     </message>
     <message>
         <location filename="../filemanager.cpp" line="1509"/>
